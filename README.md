@@ -29,7 +29,7 @@
 ---
 
 :man_technologist: About Me : 
-- :telescope: I’m working as a Chemical Analyst and develop scripts/programs to support my work efforts in the laboratory. I want to challenge myself and push into a pure tech role. 
+- :telescope: I’m working as a Chemical Analyst and develop scripts/programs to support my work efforts in the laboratory. I want to challenge myself and push into a purely tech role. 
 
 - :seedling: I am exploring Technical Writing as well as Software Development.
 
