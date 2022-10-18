@@ -29,9 +29,9 @@
 ---
 
 :man_technologist: About Me : 
-- :telescope: I’m working as a Chemical Analyst and develop scripts/programs to support my work efforts in the laboratory. I want to challenge myself and push into a purely tech role. 
+- :telescope: I am currently working as a Chemical Analyst and develop scripts/programs to support my work efforts in the laboratory. I want to challenge myself and push into a purely tech role. 
 
-- :seedling: I am exploring Technical Writing as well as Software Development.
+- :seedling: I am exploring my skill reach in Software Engineering.
 
 - :zap: In my free time, I write short fiction novels, develop programs, and read about the latest technologies.
 
