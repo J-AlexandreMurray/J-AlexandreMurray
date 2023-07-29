@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/j-alexandre-murray-bsc-a06635133">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/projectzilart">
+  <a href="https://twitter.com/JAMurray_Tech">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -29,11 +29,11 @@
 ---
 
 :man_technologist: About Me : 
-- :telescope: I am currently working as a Chemical Analyst and develop scripts/programs to support my work efforts in the laboratory. I want to challenge myself and push into a purely tech role. 
+- :telescope: I am currently working as a Software (Developer) Engineer in Test for a global leader in customer experience. 
 
-- :seedling: I am exploring my skill reach in the Technology Industry.
+- :seedling: I am exploring my skill reach in the Technology Industry as a software tester and programmer.
 
-- :zap: In my free time, I write short fiction novels, develop programs, and read about the latest technologies.
+- :zap: In my free time, I write short fiction novels under a pen name, develop programs, and read about the latest technologies.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JAlexandreMurray-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/j-alexandre-murray-bsc-a06635133)
 
