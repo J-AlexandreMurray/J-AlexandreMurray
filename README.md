@@ -29,11 +29,11 @@
 ---
 
 :man_technologist: About Me : 
-- :telescope: I am currently working as a Software (Developer) Engineer in Test for a global leader in customer experience. 
+- :telescope: I work as a Software Tester and freelance Technical Writer.
 
-- :seedling: I am exploring my skill reach in the Technology Industry as a software tester and programmer.
+- :seedling: I am exploring my skill reach in the Technology Industry as a software tester and technical writer.
 
-- :zap: In my free time, I write short fiction novels under a pen name, develop programs, and read about the latest technologies.
+- :zap: In my free time, I write fiction novels under a pen name, develop games, and read about the latest technologies.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JAlexandreMurray-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/j-alexandre-murray-bsc-a06635133)
 
