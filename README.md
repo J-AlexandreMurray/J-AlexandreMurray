@@ -29,13 +29,13 @@
 ---
 
 :man_technologist: About Me : 
-- :telescope: I am a full time Software Tester and I am also a freelance technical ghostwriter.
+- :telescope: I am a full time Software Tester and freelance as a technical ghostwriter.
 
-- :seedling: I am exploring my skill reach in the Technology Industry as a software tester and technical writer.
+- :seedling: I am constantly trying to improve myself and explore my skill reach in the Technology Industry as a software tester and technical writer. I love to write documentation (strange, I know) and learn about new and emerging tech. 
 
-- :zap: In my free time, I write fiction novels under a pen name, develop games, and read about the latest technologies.
+- :zap: In my free time, I ghostwrite technical blog articles and landing page content for other businesses, develop games, and read about some of the latest trends in both the game industry and tech industry.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JAlexandreMurray-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/j-alexandre-murray-bsc-a06635133)
+- :mailbox:How to best reach me directly: [![Linkedin Badge](https://img.shields.io/badge/-JAlexandreMurray-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/j-alexandre-murray-bsc-a06635133)
 
 ---
 
@@ -47,8 +47,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
@@ -60,7 +58,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-AlexandreMurray&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
 <br>
 
 <h3 align="left">Connect with me:</h3>
