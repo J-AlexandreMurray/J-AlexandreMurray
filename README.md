@@ -18,7 +18,7 @@
 </div>
 
 <h1 id="header" align="center">
-  Hello! I am J. Alexandre Murray.
+  Hello! I am J. A. Murray.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -29,7 +29,7 @@
 ---
 
 :man_technologist: About Me : 
-- :telescope: I work as a Software Tester and freelance Technical Writer.
+- :telescope: I am a full time Software Tester and I am also a freelance technical ghostwriter.
 
 - :seedling: I am exploring my skill reach in the Technology Industry as a software tester and technical writer.
 
@@ -80,6 +80,8 @@
  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
+  <a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
+
 </p>
 
 <br>
